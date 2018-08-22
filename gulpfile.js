@@ -15,16 +15,16 @@ const imagemin = require('gulp-imagemin');
 gulp.task('serve', ['sass'], function () {
 
   browserSync.init({
-    server: "./development",
+    server: "./public_html",
     notify: true
   });
 
 });
 
 gulp.task('minifyImg', () =>
-  gulp.src('development/img/*')
+  gulp.src('public_html/img/*')
     .pipe(imagemin())
-    .pipe(gulp.dest('development/img/'))
+    .pipe(gulp.dest('public_html/img/'))
 );
 
 // Compile sass into CSS & auto-inject into browsers
@@ -34,17 +34,17 @@ gulp.task('sass', function () {
     './node_modules/slick-carousel/slick/slick.scss',
     './node_modules/aos/src/sass/aos.scss',
     './node_modules/aos/dist/aos.css',
-    "./development/sass/*.sass"
+    "./public_html/sass/*.sass"
   ])
     .pipe(sass())
     .pipe(concat('main.min.css'))
     .pipe(cleanCss())
-    .pipe(gulp.dest("development/css"))
+    .pipe(gulp.dest("public_html/css"))
 });
 
 gulp.task('prefix', ['sass'], function () {
   return gulp.src([
-    "development/css/main.css"
+    "public_html/css/main.css"
   ])
     .pipe(autoprefixer({
       browsers: ['last 10 versions'],
@@ -52,17 +52,17 @@ gulp.task('prefix', ['sass'], function () {
     }))
     .pipe(cssmin())
     .pipe(rename({suffix: '.min'}))
-    .pipe(gulp.dest("development/css"))
+    .pipe(gulp.dest("public_html/css"))
     .pipe(browserSync.stream());
 });
 
 // Gulp Jade task
 gulp.task('jade', function () {
-  return gulp.src("development/*.jade")
+  return gulp.src("public_html/*.jade")
     .pipe(gulpJade({
       pretty: true
     }))
-    .pipe(gulp.dest("development/"))
+    .pipe(gulp.dest("public_html/"))
 });
 
 gulp.task('scripts', function () {
@@ -80,19 +80,19 @@ gulp.task('scripts', function () {
     .on('error', function (err) {
       gutil.log(gutil.colors.red('[Error]'), err.toString());
     })
-    .pipe(gulp.dest('development/scripts'));
+    .pipe(gulp.dest('public_html/scripts'));
 });
 
 gulp.task('mainscript', function () {
-  return gulp.src('./development/js/main.js')
-    .pipe(gulp.dest('development/scripts'));
+  return gulp.src('./public_html/js/main.js')
+    .pipe(gulp.dest('public_html/scripts'));
 });
 
 // Watch task
 gulp.task('watch', ['serve', 'scripts', 'mainscript', 'minifyImg'], function () {
-  gulp.watch("development/sass/*.sass", ['prefix']);
-  gulp.watch("development/*.jade", ['jade']).on('change', browserSync.reload);
-  gulp.watch("development/js/*.js", ['mainscript']).on('change', browserSync.reload);
+  gulp.watch("public_html/sass/*.sass", ['prefix']);
+  gulp.watch("public_html/*.jade", ['jade']).on('change', browserSync.reload);
+  gulp.watch("public_html/js/*.js", ['mainscript']).on('change', browserSync.reload);
 });
 
 gulp.task('default', ['watch']);

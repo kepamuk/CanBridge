@@ -5,7 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fe20067-9b1a-479a-b4d4-8cf8dcbea35f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/development/css/main.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Hardcore/Hardcore-Regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Hardcore/Hardcore-Regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Hardcore/Hardcore-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Hardcore/Hardcore-Regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Hardcore/Hardcore-Regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Myriad/MyriadPro-Regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Myriad/MyriadPro-Regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Myriad/MyriadPro-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Myriad/MyriadPro-Regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/fonts/Myriad/MyriadPro-Regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/adult.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/advantage1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/advantage2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/advantage3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/advantage4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/advantage5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/advantage6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/adventage_bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/arrow_slide.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/baby.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/bg_main.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/child.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/command.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/command.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/command1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/command2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/command3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/command4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/command5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/convert.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/desert.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/favicon-16x16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/landing_page_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/phone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/teen.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/tel.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/tel_footer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/vk.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/img/vk_footer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/index.jade" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/sass/_base.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/sass/main.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/sass/mixins/_font-family.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/sass/mixins/_responsive.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/sass/mixins/_transition.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/scripts/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/development/scripts/vendor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,33 +71,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.jade" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/development/index.jade">
+          <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/gulpfile.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="488">
-                  <caret line="234" column="17" lean-forward="true" selection-start-line="234" selection-start-column="17" selection-end-line="234" selection-end-column="17" />
-                  <folding>
-                    <marker date="1534956470058" expanded="true" signature="1060:1083" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/development/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="271" column="38" lean-forward="true" selection-start-line="271" selection-start-column="38" selection-end-line="271" selection-end-column="38" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+                <state relative-caret-position="368">
+                  <caret line="73" column="36" lean-forward="false" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
                   <folding />
                 </state>
               </provider>
@@ -54,47 +85,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.sass" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/development/sass/main.sass">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="10948">
-                  <caret line="644" column="0" lean-forward="false" selection-start-line="644" selection-start-column="0" selection-end-line="644" selection-end-column="0" />
-                  <folding>
-                    <marker date="1534955294892" expanded="true" signature="12582:12690" ph="..." />
-                    <marker date="1534955294892" expanded="true" signature="12699:12863" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/development/js/main.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="569">
-                  <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
-                  <folding>
-                    <marker date="1534955436955" expanded="true" signature="869:2137" ph="{...}" />
-                    <marker date="1534955436955" expanded="true" signature="4017:4051" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gulpfile.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="97" column="32" lean-forward="false" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="18" />
+                <state relative-caret-position="544">
+                  <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -106,7 +101,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>red</find>
       <find>#fe4902</find>
       <find>col-md-3</find>
       <find>Hardcore</find>
@@ -136,6 +130,7 @@
       <find>gulp-minify-css</find>
       <find>com</find>
       <find>com1</find>
+      <find>development</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,10 +148,10 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/development/sass/main.sass" />
         <option value="$PROJECT_DIR$/development/scripts/main.js" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/development/js/main.js" />
         <option value="$PROJECT_DIR$/development/index.jade" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
       </list>
     </option>
   </component>
@@ -183,7 +178,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="274" />
     <option name="y" value="38" />
     <option name="width" value="1400" />
@@ -205,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,21 +207,11 @@
               <item name="verstka" type="b2602c69:ProjectViewProjectNode" />
               <item name="verstka" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="verstka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="verstka" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="development" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="verstka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="verstka" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="development" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -277,15 +261,16 @@
       <workItem from="1534797263818" duration="29005000" />
       <workItem from="1534935714705" duration="13296000" />
       <workItem from="1534953199395" duration="2374000" />
-      <workItem from="1534956001698" duration="1026000" />
+      <workItem from="1534956001698" duration="2383000" />
+      <workItem from="1534966573651" duration="66000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126875000" />
+    <option name="totallyTimeSpent" value="128298000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -294,7 +279,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17004265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1716418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -305,7 +290,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -412,14 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/development/images/adult.jpg" />
     <entry file="file://$PROJECT_DIR$/development/img/adult.jpg">
       <provider selected="true" editor-type-id="images">
@@ -427,38 +404,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/development/images/com2.jpg" />
-    <entry file="file://$PROJECT_DIR$/development/images/com5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/images/com4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/development/images/com5.jpg" />
+    <entry file="file://$PROJECT_DIR$/development/images/com4.jpg" />
     <entry file="file://$PROJECT_DIR$/development/images/com3.jpg" />
     <entry file="file://$PROJECT_DIR$/development/images/com1.jpg" />
-    <entry file="file://$PROJECT_DIR$/development/img/com1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/development/img/com1.jpg" />
     <entry file="file://$PROJECT_DIR$/development/scripts/vendor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/sass/main.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10948">
-          <caret line="644" column="0" lean-forward="false" selection-start-line="644" selection-start-column="0" selection-end-line="644" selection-end-column="0" />
-          <folding>
-            <marker date="1534955294892" expanded="true" signature="12582:12690" ph="..." />
-            <marker date="1534955294892" expanded="true" signature="12699:12863" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -469,100 +423,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/development/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
-          <folding>
-            <marker date="1534955436955" expanded="true" signature="869:2137" ph="{...}" />
-            <marker date="1534955436955" expanded="true" signature="4017:4051" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="97" column="32" lean-forward="false" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/development/img/child.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/com2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/com4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/com3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/com5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/development/img/com2.jpg" />
+    <entry file="file://$PROJECT_DIR$/development/img/com4.jpg" />
+    <entry file="file://$PROJECT_DIR$/development/img/com3.jpg" />
+    <entry file="file://$PROJECT_DIR$/development/img/com5.jpg" />
     <entry file="file://$PROJECT_DIR$/development/img/command.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/com5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/com4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/com3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/com2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/com1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/img/Слой-33.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/development/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="271" column="38" lean-forward="true" selection-start-line="271" selection-start-column="38" selection-end-line="271" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/development/img/com5.png" />
+    <entry file="file://$PROJECT_DIR$/development/img/com4.png" />
+    <entry file="file://$PROJECT_DIR$/development/img/com3.png" />
+    <entry file="file://$PROJECT_DIR$/development/img/com2.png" />
+    <entry file="file://$PROJECT_DIR$/development/img/com1.png" />
+    <entry file="file://$PROJECT_DIR$/development/img/Слой-33.png" />
     <entry file="file://$PROJECT_DIR$/development/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="234" column="17" lean-forward="true" selection-start-line="234" selection-start-column="17" selection-end-line="234" selection-end-column="17" />
-          <folding>
-            <marker date="1534956470058" expanded="true" signature="1060:1083" ph="..." />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="234" column="17" lean-forward="false" selection-start-line="234" selection-start-column="17" selection-end-line="234" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -570,6 +455,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/development/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="278" column="8" lean-forward="false" selection-start-line="278" selection-start-column="8" selection-end-line="278" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/development/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10948">
+          <caret line="644" column="0" lean-forward="false" selection-start-line="644" selection-start-column="0" selection-end-line="644" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/development/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="73" column="36" lean-forward="false" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
