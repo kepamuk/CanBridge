@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+html(lang="ru")
+head
+  meta(charset="UTF-8")
+  meta(name="viewport", content="width=device-width, initial-scale=1.0")
+  meta(http-equiv="X-UA-Compatible", content="ie=edge")
+  title CanBridge
+  link(rel="shortcut icon" href="img/favicon-32x32.png" type="image/png")
+  link(rel="stylesheet", href="css/main.min.css")
+body
+//img.test(src="./img/landing_page_4.jpg")
+#preloader
+  #status
+    img(src="./img/logo.png")
+button#BtnTop.link1
+header
+  a(name="link1")
+  #main-slider.main-slider
+    .main-slider__slide(style='background-image: url("./img/bg_main.jpg")')
+    .main-slider__slide(style='background-image: url("https://www.bmw.com.mt/content/dam/bmw/common/all-models/m-series/m4-convertible/2017/images-and-videos/images/BMW-m4-convertible-images-and-videos-1920x1200-06.jpg.asset.1510607725528.jpg")')
+    .main-slider__slide(style='background-image: url("https://i1.wp.com/thefreshimages.com/wp-content/uploads/2017/12/lord-shiva-hd-images.jpg?resize=3840%2C2160&ssl=1")')
+  .main-text
+    .container-fluid
+      .row
+        .col-lg-2.col-md-4.col-4
+          a.main-text__logo(href="/" data-aos="fade-right")
+            img.fr(src="./img/logo.png")
+            p Английский<br> близко!
+        .col-lg-3.col-md-5.col-8(data-aos="fade-down")
+          a.main-text__phone(href="tel:+7(812)9254355") +7 (812) 925 - 43 - 55
+          .main-text__soc
+            a(href="#")
+              img(src="./img/vk.png")
+            a(href="#")
+              img(src="./img/tel.png")
+        .col-lg-7.offset-lg-0.col-md-3
+          ul.menu(data-aos="fade-left")
+            li
+              a.link1 Главная
+            li
+              a.link2 Преимущества
+            li
+              a.link3 Наши программы
+            li
+              a.link4 Отзывы
+            li
+              a.link5 Контакты
+        .col-md-6.offset-md-2
+          .main-text__text(data-aos="fade-right")
+            h1 АНГЛИЙСКИЙ ДЛЯ ВЗРОСЛЫХ И ДЕТЕЙ
+            button.btn_yellow хочу к вам!
+
+section.tizer
+  .container-fluid
+    .row
+      .col-md-3.col-6
+        .tizer__item(data-aos="fade-right")
+          .tizer__item-circle 0-3 года
+          p Курсы мама + малыш
+      .col-md-3.col-6
+        .tizer__item(data-aos="fade-up")
+          .tizer__item-circle 3-7 лет
+          p Курсы для дошкольников
+      .col-md-3.col-6
+        .tizer__item(data-aos="fade-up")
+          .tizer__item-circle 7-17 лет
+          p Курсы для школьников
+      .col-md-3.col-6
+        .tizer__item(data-aos="fade-left")
+          .tizer__item-circle 18+ лет
+          p Курсы для взрослых
+      .col-md-8.offset-md-2
+        .line(data-aos="fade-right")
+        p.text(data-aos="fade-left") Говорят, язык до Киева доведет.  А вот <b>английский язык</b> откроет перед вами двери любой страны. Английский с нами - это весело, полезно, энергично и иногда даже вкусно. Теперь и для взрослых!
+
+section.advantages
+  a(name="link2")
+  .bg
+  .container-fluid
+    .row
+      .col-md-12
+        h2(data-aos="fade-right") НАШИ ПРЕИМУЩЕСТВА
+        #slick-advantage0.slick-advantage(data-aos="fade-left")
+          .slick-advantage__slide
+            img(src="./img/advantage1.png")
+            h3 удобное расположение
+            p Наши площадки располагаются на базе детских центров. Детям там очень нравится: много игрушек, красочная обстановка. Но прежде всего, это позволяет привести ребенка сразу на несколько занятий подряд и освободить себе пару часов.
+          .slick-advantage__slide
+            img(src="./img/advantage2.png")
+            h3 разные районы
+            p Наши занятия проходят в разных районах города. Вы можете выбрать ближайшую к дому или к работе площадку.
+          .slick-advantage__slide
+            img(src="./img/advantage3.png")
+            h3 мини-группы
+            p В группах занимаются максимум 6 человек, что позволяет проводить групповые коммуникативные игры и при этом уделить внимание каждому ребенку, найти к каждому индивидуальный подход. Группы сформированы четко по возрасту и уровню знаний.
+        #slick-advantage1.slick-advantage(data-aos="fade-right")
+          .slick-advantage__slide
+            img(src="./img/advantage4.png")
+            h3 новейшие тенденции
+            p Наш методист постоянно отслеживает последние тенденции в области преподавания английского и своевременно доносит информацию до преподавателей. Мы уходим от «школьного» формата и превращаем занятия в яркое запоминающееся событие с множеством игр, песен и творчества.
+          .slick-advantage__slide
+            img(src="./img/advantage5.png")
+            h3 методическая поддержка
+            p Все наши преподаватели проходят внутреннее обучение, методист осуществляет постоянный контроль и оказывает поддержку в процессе обучения.
+          .slick-advantage__slide
+            img(src="./img/advantage6.png")
+            h3 британские пособия
+            p Все наши программы основаны на современных пособиях уважаемых британских издательств, таких как Cambridge, Macmillan, Oxford, Longman, Express Publishing.
+      .col-md-4
+        img.fr(src="./img/desert.png" data-aos="fade-right")
+      .col-md-8
+        .advantages__under(data-aos="fade-left")
+          h4 На десерт
+          p Мы постоянно в творческом поиске новых форматов обучения и проводим массу дополнительных мероприятий, связанных с английским. Мы поем английские песни под гитару, устраиваем квесты и проводим кулинарные мастер-классы. Это позволяет развить у детей позитивное восприятие языка, заинтересованность и желание учиться.
+          p Наша <a href="#">группа ВКонтакте</a> - просто кладезь материалов для самостоятельного обучения английскому. Здесь вы найдете полезные статьи, интересные мультики и полезные песенки, а также полностью расписанные занятия для малышей до 3х лет. Также можно задать вопрос нашему методисту. И все это совершенно бесплатно.
+
+section.programs
+  a(name="link3")
+  .container-fluid
+    .row
+      .col-md-12
+        h2(data-aos="fade-left") НАШИ ПРОГРАММЫ
+        p(data-aos="fade-right") Подробное описание программ и курсов вы можете найти <a href="#">здесь</a>.
+        .programs-wrap
+          div.image(data-aos="fade-right")
+            p Для взрослых
+            img(src="./img/adult.jpg")
+          #programs-slider0.programs-slider(data-aos="fade-left")
+            .programs-slider__slide
+              .programs-slider__slide-wrap
+                .number 01
+                .text
+                  h4 ЯЗЫКОВЫЕ КУРСЫ ДЛЯ ВЗРОСЛЫХ
+                  p Для тех, кто дружит с языком
+                  p 18+
+                  p Р 2800 в мес.
+            .programs-slider__slide
+              .programs-slider__slide-wrap
+                .number 01
+                .text
+                  h4 ЯЗЫКОВЫЕ КУРСЫ ДЛЯ ВЗРОСЛЫХ
+                  p Для тех, кто дружит с языком
+                  p 18+
+                  p Р 2800 в мес.
+          #programs-slider1.programs-slider(data-aos="fade-right")
+            .programs-slider__slide
+              .programs-slider__slide-wrap
+                .number 02
+                .text
+                  h4 ЯЗЫКОВЫЕ КУРСЫ ДЛЯ тинейджеров
+                  p Для тех, кто в теме
+                  p 12-17
+                  p Р 5800 в мес.
+            .programs-slider__slide
+              .programs-slider__slide-wrap
+                .number 02
+                .text
+                  h4 ЯЗЫКОВЫЕ КУРСЫ ДЛЯ тинейджеров
+                  p Для тех, кто в теме
+                  p 12-17
+                  p Р 5800 в мес.
+          div.image.image2(data-aos="fade-left")
+            p Для молодых <br> и классных
+            img(src="./img/teen.jpg")
+          div.image.image3(data-aos="fade-right")
+            p Для уже <br> не маленьких
+            img(src="./img/child.jpg")
+          #programs-slider2.programs-slider(data-aos="fade-left")
+            .programs-slider__slide
+              .programs-slider__slide-wrap
+                .number 01
+                .text
+                  h4 ЯЗЫКОВЫЕ КУРСЫ ДЛЯ малышей
+                  p Супер-старт!
+                  p 5-7
+                  p Р 3800 в мес.
+            .programs-slider__slide
+              .programs-slider__slide-wrap
+                .number 01
+                .text
+                  h4 ЯЗЫКОВЫЕ КУРСЫ ДЛЯ малышей
+                  p Супер-старт!
+                  p 5-7
+                  p Р 3800 в мес.
+          #programs-slider3.programs-slider(data-aos="fade-right")
+            .programs-slider__slide
+              .programs-slider__slide-wrap
+                .number 01
+                .text
+                  h4 ЯЗЫКОВЫЕ КУРСЫ “мама + малыш”
+                  p Для продвинутых родителей
+                  p 0-3
+                  p Р 2800 в мес.
+            .programs-slider__slide
+              .programs-slider__slide-wrap
+                .number 01
+                .text
+                  h4 ЯЗЫКОВЫЕ КУРСЫ “мама + малыш”
+                  p Для продвинутых родителей
+                  p 0-3
+                  p Р 2800 в мес.
+          div.image.image2(data-aos="fade-left")
+            p Курс Мама + малыш
+            img(src="./img/baby.jpg")
+      button.btn_yellow(data-aos="flip-up") хочу к вам!
+
+section.command
+  .bg1
+  .container-fluid
+    .row
+      .col-md-12
+        .command_wrap
+          h2(data-aos="fade-left") НАША КОМАНДА
+          .icon(data-aos="flip-up")
+          p(data-aos="fade-right") Наша команда очень дружная, профессиональная и безумно творческая, и мы очень любим нашу работу.
+      .col-md-12
+        .nav-wrap(data-aos="fade-left")
+          ul#command.command.group
+            li
+              img(src="./img/command1.jpg" data-name="Котик1" data-position="tata")
+            li
+              img(src="./img/command2.jpg" data-name="Котик2" data-position="xsxs")
+            li.current_page_item
+              img(src="./img/command3.jpg" data-name="Наталья Некрасова" data-position="Главная фея")
+            li
+              img(src="./img/command4.jpg" data-name="Котик3" data-position="vava")
+            li
+              img(src="./img/command5.jpg" data-name="Котик4" data-position="dsds")
+          hr
+          .nav-wrap__text
+            h3
+            p
+
+section.comments
+  a(name="link4")
+  .container-fluid
+    .row
+      .col-md-12
+        h2 отзывы
+
+
+
+section#map.map
+
+
+section.record
+  a(name="link5")
+  a(name="btn_yellow")
+  .container-fluid
+    .row
+      .col-lg-5.offset-lg-1.col-md-12(data-aos="fade-right")
+        h2 Хочу записаться на занятия!
+        a(href="#")
+          i
+          span +7 (812) 925 - 43 - 55
+        a(href="#")
+          i
+          span Natalya@gmail.com
+      .col-xs-4.offset-xs-1.col-lg-5(data-aos="fade-left")
+        form
+          .input_block
+            label Имя
+            input.fr
+          .input_block
+            label Телефон
+            input.fr
+          .input_block
+            label курс
+            select.fr
+              option
+              option
+          .input_block
+            label центр
+            select.fr
+              option
+              option
+          .form__under
+            .form__under-text
+              span.star *
+              span Поля, обязательные<br> для заполнения
+            .button.btn_yellow.fr ЗАписаться
+
+footer
+  .container-fluid
+    .row
+      .col-md-3.offset-md-1(data-aos="fade-right")
+        a(href="/")
+          img(src="./img/logo.png")
+          p Английский<br> близко!
+      .col-lg-7.offset-lg-0.col-md-3(data-aos="fade-left")
+        ul.menu
+          li
+            a.link1 Главная
+          li
+            a.link2 Преимущества
+          li
+            a.link3 Наши программы
+          li
+            a.link4 Отзывы
+          li
+            a.link5 Контакты
+        a.main-text__phone(href="tel:+7(812)9254355") +7 (812) 925 - 43 - 55
+        .main-text__soc
+          a(href="#")
+          a(href="#")
+
+
+script(src="//api-maps.yandex.ru/2.1/?lang=en_RU" type="text/javascript")
+script(src="scripts/vendor.js")
+script(src="scripts/main.js")

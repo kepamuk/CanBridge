@@ -1,0 +1,32 @@
+// Fonts
+
+@import ./mixins/font-family
+@import ./mixins/responsive
+
++font-face("MyriadPro-Regular", "../fonts/Myriad/MyriadPro-Regular", 400)
++font-face("Hardcore-Regular", "../fonts/Hardcore/Hardcore-Regular", 600)
+
+// Variables
+$color_white: #ffffff
+$color_black: #363535
+$color_yellow: #ffc80a
+$color_purple: #8a71b8
+$color_text: #353434
+$color_grey: #646c72
+$color_grey_light: #eee
+$color_grey_lighter: #c6c4c4
+$color_blue: #2369d2
+$color_green: #0f5d54
+$color_brown: #525151
+$color_red: #f9593a
+// Mixins
+
+// -- transitions --
+@import ./mixins/transition
+
+// -- no margin last child --
+@mixin no-margin-last
+  &:last-child
+    margin: 0
+
+
